@@ -3,4 +3,8 @@ This repository contains a collection of projects that I have worked on. The pro
 
 ## PROJECTS
 Due to confidentiality and privacy considerations, I am unable to share previous work deliverables. Instead, I can showcase projects and assignments that highlight my abilities.
-[]()
+
+[CHURN ANALYSIS](https://github.com/emmanuel1538/BOLFUNK-COMMUNICATION)
+
+[INVENTORY ANALYSIS](https://github.com/emmanuel1538/Car-Inventory-Analysis)
+
